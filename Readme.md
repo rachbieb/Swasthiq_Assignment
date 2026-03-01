@@ -61,9 +61,9 @@ npm run dev
 
 
 ```md
-![Dashboard](./screenshots/dashboard1.png)
-![Inventory](./screenshots/dashboard2.png)
-![Add Medicine Modal](./screenshots/dashboard3.png)
+![Dashboard](/screenshots/dashboard1.png)
+![Inventory](/screenshots/dashboard2.png)
+![Add Medicine Modal](/screenshots/dashboard3.png)
 ```
 
 ## 💡 Design Decisions
