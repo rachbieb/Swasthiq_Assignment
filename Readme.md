@@ -58,13 +58,11 @@ npm run dev
 
 ## 📸 Screenshots
 
+### Dashboard
 
-
-```md
-![Dashboard 3](screenshots/dashboard3.png)
-![Dashboard 2](screenshots/dashboard2.png)
 ![Dashboard 1](screenshots/dashboard1.png)
-```
+![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 3](screenshots/dashboard3.png)
 
 ## 💡 Design Decisions
 - Used separate sales and purchase summaries for realistic dashboard reporting.
